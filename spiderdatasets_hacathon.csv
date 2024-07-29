@@ -1,0 +1,81 @@
+Mass_Dust_Particle_in_gram,Mass_of_Fixed_Thread_Particle ,Mass_of_Thread_particle_(_milliGram),Velocity_in__(m/sec),Timestep,Radius_of_Dust__Sphere_(mm),Rupture_Results
+1.64,1000000,0.27,0.1,0.000000016,1,No Ruptures & Rebounds
+1.64,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+1.64,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+1.64,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+1.64,1000000,0.27,0.5,0.000000008,1,No Ruptures & Rebounds
+1.64,1000000,0.27,0.5,0.000000008,2,No Ruptures & Rebounds
+1.64,1000000,0.27,0.7,0.000000008,1,Ruptures
+1.64,1000000,0.27,0.7,0.000000008,2,Ruptures
+1.64,1000000,0.27,1,0.000000008,1,Ruptures
+1.64,1000000,0.27,1,0.000000008,2,Ruptures
+3.28,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+3.28,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+3.28,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+3.28,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+3.28,1000000,0.27,0.5,0.000000008,1,Ruptures
+3.28,1000000,0.27,0.5,0.000000008,2,Ruptures
+3.28,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+3.28,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+3.28,1000000,0.27,1,0.000000008,1,Ruptures
+3.28,1000000,0.27,1,0.000000008,2,Ruptures
+4.96,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+4.96,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+4.96,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+4.96,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+4.96,1000000,0.27,0.5,0.000000008,1,Ruptures
+4.96,1000000,0.27,0.5,0.000000008,2,Ruptures
+4.96,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+4.96,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+4.96,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+4.96,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
+6.57,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+6.57,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+6.57,1000000,0.27,0.3,0.000000008,1,Ruptures 
+6.57,1000000,0.27,0.3,0.000000008,2,Ruptures 
+6.57,1000000,0.27,0.5,0.000000008,1,No Ruptures & Rebounds
+6.57,1000000,0.27,0.5,0.000000008,2,No Ruptures & Rebounds
+6.57,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+6.57,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+6.57,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+6.57,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
+9.85,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+9.85,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+9.85,1000000,0.27,0.3,0.000000008,1,Ruptures 
+9.85,1000000,0.27,0.3,0.000000008,2,Ruptures 
+9.85,1000000,0.27,0.5,0.000000008,1,No Ruptures & Rebounds
+9.85,1000000,0.27,0.5,0.000000008,2,No Ruptures & Rebounds
+9.85,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+9.85,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+9.85,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+9.85,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
+13.14,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+13.14,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+13.14,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+13.14,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+13.14,1000000,0.27,0.5,0.000000008,1,Ruptures 
+13.14,1000000,0.27,0.5,0.000000008,2,Ruptures 
+13.14,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+13.14,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+13.14,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+13.14,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
+16.42,1000000,0.27,0.1,0.000000008,1,No Ruptures & Rebounds
+16.42,1000000,0.27,0.1,0.000000008,2,No Ruptures & Rebounds
+16.42,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+16.42,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+16.42,1000000,0.27,0.5,0.000000008,1,No Ruptures & Rebounds
+16.42,1000000,0.27,0.5,0.000000008,2,No Ruptures & Rebounds
+16.42,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+16.42,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+16.42,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+16.42,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
+19.7,1000000,0.27,0.1,0.000000008,1,Ruptures 
+19.7,1000000,0.27,0.1,0.000000008,2,Ruptures 
+19.7,1000000,0.27,0.3,0.000000008,1,No Ruptures & Rebounds
+19.7,1000000,0.27,0.3,0.000000008,2,No Ruptures & Rebounds
+19.7,1000000,0.27,0.5,0.000000008,1,No Ruptures & Rebounds
+19.7,1000000,0.27,0.5,0.000000008,2,No Ruptures & Rebounds
+19.7,1000000,0.27,0.7,0.000000008,1,No Ruptures & Rebounds
+19.7,1000000,0.27,0.7,0.000000008,2,No Ruptures & Rebounds
+19.7,1000000,0.27,1,0.000000008,1,No Ruptures & Rebounds
+19.7,1000000,0.27,1,0.000000008,2,No Ruptures & Rebounds
