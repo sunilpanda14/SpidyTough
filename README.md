@@ -55,5 +55,8 @@ python evaluate_model.py
 
 Run this script to load the trained model and evaluate its performance on a validation set.
 
+![image](https://github.com/user-attachments/assets/56a583b6-70ac-4d40-8b54-3a03c6d90e05)
+
+
 Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or fixes.
