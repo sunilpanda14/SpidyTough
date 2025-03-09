@@ -57,8 +57,5 @@ Run this script to load the trained model and evaluate its performance on a vali
 
 ![Spidytough](https://github.com/user-attachments/assets/e495a5b4-501c-40ee-be16-3446c221309c)
 
-
-
-
 Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or fixes.
